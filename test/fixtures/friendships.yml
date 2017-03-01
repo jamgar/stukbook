@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  friend_id: 1
+  state: MyString
+  friend_at: 2017-03-01 19:46:48
+
+two:
+  user_id: 1
+  friend_id: 1
+  state: MyString
+  friend_at: 2017-03-01 19:46:48
